@@ -1,0 +1,6 @@
+HOST : 'mongodb://root:root123@ds133275.mlab.com:33275/smartagdatabase'
+DB_NAME : 'smartagdatabase'
+collection_name_added : 'sensor_added'
+collection_name_reading : 'sensor_reading'
+#REFRESH_RATE : 2
+REFRESH_RATE : 900    #Update rate in seconds
